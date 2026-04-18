@@ -9,8 +9,8 @@ I'm a first-year Computer Engineering student passionate about the intersection 
 
 ### About Me
 - I love to work in Open Source.
-- I'm good at DSA and Backend
-- Work hard only!
+- I'm good at DSA and Backend.
+- Enjoy working on challenging tasks.
 
 ---
 
