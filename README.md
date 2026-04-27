@@ -1,24 +1,28 @@
-## Hi there, I'm Thitipong 👋
+# Hi there, I'm Thitipong Phuangphet 👋
 
-### Aspiring Site Reliability Engineer (SRE) & Software Engineer
+### Aspiring High-Performance Computing (HPC) & Software Engineer
+
 **Student at Faculty of Engineering (CEDT), Chulalongkorn University**
 
-I'm a first-year Computer Engineering student passionate about the intersection of **Software Engineering** and **Infrastructure**. My goal is not just to write code that works, but to build systems that are **reliable, scalable and efficient**.
+I'm a Computer Engineering student transitioning from the fast-paced world of **Competitive Programming** into the deep, performance-critical realm of **High-Performance Computing (HPC)** and **Systems Engineering**. 
+
+I have a deep appreciation for the physical speed of hardware. My ultimate goal is to write low-level software that squeezes every ounce of performance out of CPUs and GPUs.
 
 ---
 
-### About Me
-- I love to work in Open Source.
-- I'm good at DSA and Backend.
-- Enjoy working on challenging tasks.
+### What I'm Up To
+*   **Open Source:** Active contributor to the **OpenTelemetry**
+*   **Currently Learning:** Shifting my C++ mindset from algorithmic complexity (Big O) to hardware efficiency (Data-Oriented Design, Cache Locality, and Parallel Computing).
+*   **Future Focus:** Deep diving into system architecture, compilers, and compute APIs (like ROCm/CUDA).
 
 ---
 
 ### Tech Stack & Tools
+**Languages**
 
-**Languages** <br>
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Learning Rust](https://img.shields.io/badge/learning-rust-%23E32F26.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 **Tools & Workflow** <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -32,5 +36,5 @@ I'm a first-year Computer Engineering student passionate about the intersection 
 ---
 
 ### Connect with me
-**LinkedIt** :  https://www.linkedin.com/in/thitipong-phuangphet-2224a0372/ <br>
+**LinkedIn** :  https://www.linkedin.com/in/thitipong-phuangphet-2224a0372/ <br>
 **Email** : thitipong.pgpt@gmail.com
